@@ -36,7 +36,7 @@
 }
 
 .ant-btn {
-  background-color: #4CAF50 !important; /* Приятный зелёный цвет */
+  background-color: #8A3324 !important; /* Приятный зелёный цвет */
   color: white !important;
   border: none !important;
   padding: 0.5rem 1rem;
@@ -45,7 +45,7 @@
 }
 
 .ant-btn:hover {
-  background-color: #45a049 !important; /* Цвет при наведении */
+  background-color: #8A3324 !important; /* Цвет при наведении */
 }
 
 .work-panel {
@@ -74,7 +74,7 @@
 }
 
 button {
-  background-color: #4CAF50 !important;
+  background-color: #8A3324 !important;
   color: white !important;
   border: none !important;
   padding: 0.5rem 1rem;
@@ -84,7 +84,7 @@ button {
 }
 
 button:hover {
-  background-color: #45a049 !important;
+  background-color: #8A3324 !important;
 }
 
 .color-info {
